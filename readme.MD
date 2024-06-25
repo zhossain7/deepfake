@@ -1,1 +1,1 @@
-# FaceID detecting
+# FaceID detection
